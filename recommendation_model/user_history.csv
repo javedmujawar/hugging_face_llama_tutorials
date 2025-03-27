@@ -1,0 +1,5 @@
+user_id,visited_pages,time_spent_seconds
+1,["/home", "/about", "/pricing"],[30, 40, 10]
+2,["/home", "/services", "/contact"],[25, 60, 5]
+3,["/home", "/blog", "/pricing"],[20, 45, 15]
+4,["/home", "/blog", "/services"],[35, 50, 20]
